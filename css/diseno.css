@@ -1,4 +1,59 @@
 #cajaCabecera {
 background-color: red; 
+}
+#menu{
+	height: 74px;
+	background-color: #364c78;
+	
 
+}
+#contactenos:hover{
+	background-color: #1b212a;
+}
+#contactenos{
+	color: white;
+}
+#acerca:hover{
+	background-color: #1b212a;
+}
+#acerca{
+	color: white;
+}
+#inicio{
+	background-color: #1b212a;
+	color: white;
+}
+#iniciar{
+	color: white;
+}
+#registrarme{
+	color: white;
+}
+#mision{
+	color: white;
+}
+#mision:hover{
+	background-color: #1b212a;
+}
+#vision{
+	color: white;
+}
+#vision:hover{
+	background-color: #1b212a;
+}
+#ubicacion{
+	color: white;
+}
+#ubicacion:hover{
+	background-color: #1b212a;
+}
+#menuDentro{
+	background: #5b7c9e; 
+	margin-top:9px; 
+	margin-right: 40px; 
+	margin-left: 40px
+}
+hr {
+  height: 50px;
+  background-color: red;
 }
